@@ -2,8 +2,6 @@
 
 A simple and clean **Spotify Clone** built using **HTML**, **CSS**, and **JavaScript**. This project mimics the basic UI and functionality of Spotify’s web player, allowing users to play/pause music, navigate through tracks, and enjoy a smooth music experience in a visually appealing layout.
 
-![Spotify Clone Screenshot](./screenshot.png) <!-- Replace with your actual screenshot if available -->
-
 ---
 
 ## 🚀 Features
